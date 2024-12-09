@@ -1,3 +1,4 @@
+
 import Box from "@/components/Box";
 import Hero from "@/components/Hero";
 import Product from "@/components/Product";
